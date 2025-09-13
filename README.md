@@ -13,11 +13,6 @@ It contains scripts, mini-projects, and libraries you can explore and run on you
 | 02 | print_name_art.py        | Print your name using ASCII art fonts            |
 | 03 | file_renamer.py          | Rename files in a folder automatically          |
 
-## Folder Structure
-
-- `libraries/` - Custom Python libraries for reuse  
-- `scripts/` - Python scripts for learning and practice  
-- `assets/` - Images, fonts, and resources used in scripts
 
 ## How to Use
 
